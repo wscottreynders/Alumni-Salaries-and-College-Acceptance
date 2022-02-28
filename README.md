@@ -1,1 +1,1 @@
-# Alumni-Salaries-and-College-Acceptance
+Choosing which university to attend is an important decision that plagues the mind of many high school students. Others, not set on attending college at all may want to contemplate its value. In order to better understand which colleges will produce the most monetary value for the easiest entry, acceptance rate versus alumni salaries may grant an insight to desirable options for perspective college students.
